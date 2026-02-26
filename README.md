@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Java+Developer;AI+Enthusiast;Continuous+Learner" alt="Typing SVG" />
 </p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -31,13 +32,6 @@ I am a **Java Developer** currently taking my first steps into the world of **Ar
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adityakumar-techwork&show_icons=true&theme=corporate&hide_border=true" alt="Aditya's GitHub Stats" />
-</p>
 
 ---
 
