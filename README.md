@@ -44,6 +44,6 @@ When I'm not debugging or prompting AI models, you can find me:
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [aditya----kumar/](https://www.linkedin.com/in/adityakumar1234/)
+- **LinkedIn:** [adityakumar1234/](https://www.linkedin.com/in/adityakumar1234/)
 - **GitHub:** [adityakumar-techwork](https://github.com/adityakumar-techwork)
 
